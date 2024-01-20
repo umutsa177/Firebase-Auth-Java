@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466432080339",
+    "project_id": "java-final-afccc",
+    "storage_bucket": "java-final-afccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466432080339:android:dad0abf030b86b182f9726",
+        "android_client_info": {
+          "package_name": "com.example.java_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_VKqKQlNde0mJmznFY1LPDsrSIEtp1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
